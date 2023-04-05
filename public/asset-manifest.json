@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c3b5830c.css",
+    "main.js": "/static/js/main.c04febf6.js",
+    "static/media/png-transparent-gym-logo-fitness-removebg-preview.png": "/static/media/png-transparent-gym-logo-fitness-removebg-preview.6fb29120e770c071a35f.png",
+    "index.html": "/index.html",
+    "main.c3b5830c.css.map": "/static/css/main.c3b5830c.css.map",
+    "main.c04febf6.js.map": "/static/js/main.c04febf6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3b5830c.css",
+    "static/js/main.c04febf6.js"
+  ]
+}
