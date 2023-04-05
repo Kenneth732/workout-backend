@@ -2,6 +2,9 @@ source "https://rubygems.org"
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 gem 'bcrypt', '~> 3.1.7'
 # gem 'bcrypt'
+gem 'rack-cors'
+
+gem 'active_model_serializers'
 
 ruby "2.7.6"
 
@@ -29,5 +32,3 @@ group :development do
   # Speed up commands on slow machines / big apps [https://github.com/rails/spring]
   # gem "spring"
 end
-
-gem 'active_model_serializers'
