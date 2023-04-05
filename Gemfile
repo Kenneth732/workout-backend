@@ -2,7 +2,9 @@ source "https://rubygems.org"
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 gem 'bcrypt', '~> 3.1.7'
 # gem 'bcrypt'
-gem 'rack-cors'
+# gem 'rack-cors'
+gem 'rack-cors', require: 'rack/cors'
+
 
 gem 'active_model_serializers'
 
