@@ -4,6 +4,7 @@ gem 'bcrypt', '~> 3.1.7'
 # gem 'bcrypt'
 # gem 'rack-cors'
 gem 'rack-cors', require: 'rack/cors'
+gem 'sqlite3'
 
 
 gem 'active_model_serializers'
