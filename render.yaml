@@ -8,7 +8,7 @@ services:
     startCommand: bundle exec rails s
     envVars:
       - key: RAILS_MASTER_KEY
-        value: e3797695370b2eb6073dfea8621ca62fca06cf5b89a9964f38d84650c6e8b0f3e40220b5f500706dd978f33ee7dd608deda1e0abe063a91b238cc985ade91c33
+        value: 335962b40ed00e31f110b577d6a2bbc11257f7585eb60e4fa35df6a887a71e6a3484466a7547d2dea75f9185d631d57edbbe22c030b09341ed4653e454a1a514
       - key: DATABASE_URL
         fromDatabase:
           name: postgres
